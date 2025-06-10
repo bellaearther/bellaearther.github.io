@@ -95,7 +95,7 @@
 
     <h3>会社概要</h3>
     <table>
-      <tr><td>会社名</td><td>合同会社ベラ・アーサー（Bella Arthur LLC）</td></tr>
+      <tr><td>会社名</td><td>合同会社ベラ・アーサー（Bella Earther LLC）</td></tr>
       <tr><td>設立</td><td>2024年10月10日</td></tr>
       <tr><td>代表者</td><td>西 香織（Kaori Nishi）</td></tr>
       <tr><td>所在地</td><td>〒107-0062 東京都港区南青山3丁目1番36号 青山丸竹ビル6F</td></tr>
